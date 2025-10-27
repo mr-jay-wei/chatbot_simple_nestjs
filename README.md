@@ -61,7 +61,7 @@ cd <project-folder>
     ```env
     # .env
 
-    # 你的大语言模型 API Key (例如 ModelScope)
+    # 你的魔塔大语言模型 API Key (例如 ModelScope)
     MODEL_SCOPE_API_KEY=sk-your-llm-api-key
 
     # 从你的 Supabase 项目设置中获取
